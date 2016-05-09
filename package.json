@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "description": "MEAN test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tbearnson/eComm-Sample.git"
+  },
+  "author": "Tyson Bearnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tbearnson/eComm-Sample/issues"
+  },
+  "homepage": "https://github.com/Tbearnson/eComm-Sample#readme"
+}
